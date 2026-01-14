@@ -45,12 +45,8 @@
 
 
 
-![HTML](https://skillicons.dev/icons?i=python)
-![CSS](https://skillicons.dev/icons?i=java)
-
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+![PYTHON](https://skillicons.dev/icons?i=python)
+![JAVA](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 
 
