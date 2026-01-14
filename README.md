@@ -5,9 +5,8 @@
 ``` json
 {
     "name": "Pablo Rhuan",
-    "pronouns": "He/Him",
-    "title": "Full Stack Developer",
-    "focus": "Python, CSS, HTML",
+    "title": "Backend Developer",
+    "focus": "Python",
     "learning": "Java and JavaScript"
 }
 ```
